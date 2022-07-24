@@ -25,7 +25,7 @@ ___
 - The causes may be due to a high-fat diet, pregnancies at an advanced age or not having pregnancies, addictions such as alcohol and tobacco, starting monthly periods before the age of 12 or having menopause after the age of 55, hormone replacement therapies for a long time, no or little breastfeeding and a sedentary lifestyle are risk factors for developing breast cancer.
 ___
 
-### Some conciderations to understand the dataset:
+## Some conciderations to understand the dataset:
 
 The way the dataset is structured was created by Dr. William H. Wolberg, a physician at the University of Wisconsin Hospital in Madison, Wisconsin, USA. To create the dataset, Dr. Wolberg used fluid samples, taken from patients with solid breast masses, and an easy-to-use graphical computer program called Xcyt, capable of performing analysis of cytologic features from a digital scan. The program uses a curve fitting algorithm, to calculate ten features for each of the cells in the sample, which calculates the mean value, extreme value and standard error of each feature for the image, returning a vector of 30 real values-
 
