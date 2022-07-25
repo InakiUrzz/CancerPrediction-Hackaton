@@ -49,7 +49,9 @@ ___
 
 ## Conlusion: 
 
-- Different types of algorithms were tested such as, Random Forest Classifier,AdaBoostClassifier, KNeighbors Classifier, Logistic Regression, etc. The best F1 macro result was obtained with the CatBoost Classifier, with a result of 0.976 wich was a bit underfitted but it´s a very good result.
+- Different types of algorithms were tested such as, Random Forest Classifier,AdaBoostClassifier, KNeighbors Classifier, Logistic Regression, etc.
+
+- The best F1 macro was obtained without stratifying the sample, with CatBoosClassifier 0.985 but it was a bit far from our Cross Validation having a bit of overfitting, to which, being a subject as sensitive as cancer, I decided to use the stratified sample and keep the f1 0.976 macro which is closer to our CrossValidation. This one was obtained with the CatBoost Classifier again, with a result of 0.976 wich was a bit overfitted but it´s a very good result.
 
 - By having strongly correlated variables, it was possible to obtain good results, which also indicates that the quality of the data was also good.
 
