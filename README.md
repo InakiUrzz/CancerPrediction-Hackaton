@@ -63,7 +63,7 @@ ___
 ___
 
 ## Proposed Solution:
-- A web page should be created so that the Machine Learning Model can be deployed, and anyone who has their mammography results, but above all doctors, can interact and upload the data to obtain a prediction of the type of tumor that is being analyzed.
+- A web page or an API should be created so that the Machine Learning Model can be deployed, and anyone who has their mammography results, but above all doctors, can interact and upload the data to obtain a prediction of the type of tumor that is being analyzed.
 
 - New technologies such as Machine Learning and artificial intelligence can serve as a diagnostic tool.
 ___
